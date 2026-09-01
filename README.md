@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
