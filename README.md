@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0242-valid-anagram) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0901-online-stock-span) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
