@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0009-palindrome-number) |
+| [1922-count-good-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0394-decode-string) |
+| [1922-count-good-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1922-count-good-numbers) |
 ## Design
 |  |
 | ------- |
