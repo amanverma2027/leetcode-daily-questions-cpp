@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
 | [0931-minimum-falling-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0931-minimum-falling-path-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0009-palindrome-number) |
 | [1922-count-good-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1922-count-good-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Linked List
 |  |
 | ------- |
