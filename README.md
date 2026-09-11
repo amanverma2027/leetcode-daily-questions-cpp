@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0394-decode-string) |
+| [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
+| [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0234-palindrome-linked-list) |
+| [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
