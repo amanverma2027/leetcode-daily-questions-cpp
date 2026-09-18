@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0145-binary-tree-postorder-traversal) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0145-binary-tree-postorder-traversal) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0134-gas-station) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
