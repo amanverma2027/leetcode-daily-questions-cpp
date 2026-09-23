@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
 | [0931-minimum-falling-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0931-minimum-falling-path-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2073-time-needed-to-buy-tickets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3524-find-x-value-of-array-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0300-longest-increasing-subsequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -257,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
