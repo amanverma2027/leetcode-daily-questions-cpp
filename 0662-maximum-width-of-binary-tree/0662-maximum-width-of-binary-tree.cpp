@@ -18,7 +18,7 @@ public:
         queue<pair<TreeNode*, long long>> q;
         q.push({root,0});
         while(!q.empty()) {
-            long long size = q.size();
+            int size = q.size();
             long long min = q.front().second;
             long long first,last;
             for(int i=0; i<size; i++) {
