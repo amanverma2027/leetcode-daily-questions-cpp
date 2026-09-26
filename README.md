@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0394-decode-string) |
 | [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Tree
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0637-average-of-levels-in-binary-tree) |
