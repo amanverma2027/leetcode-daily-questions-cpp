@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0394-decode-string) |
 | [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
