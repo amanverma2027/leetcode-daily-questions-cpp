@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0682-baseball-game) |
 | [0904-fruit-into-baskets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0931-minimum-falling-path-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3498-reverse-degree-of-a-string) |
 ## Minimax
