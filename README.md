@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0091-decode-ways) |
+| [0205-isomorphic-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0387-first-unique-character-in-a-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0424-longest-repeating-character-replacement) |
