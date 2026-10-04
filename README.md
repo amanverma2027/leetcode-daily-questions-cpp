@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0931-minimum-falling-path-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
