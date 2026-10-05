@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0931-minimum-falling-path-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2073-time-needed-to-buy-tickets) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1922-count-good-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -343,12 +346,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Lifting
 |  |
