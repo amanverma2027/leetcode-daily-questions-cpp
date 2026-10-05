@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3834-merge-adjacent-equal-elements](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3834-merge-adjacent-equal-elements](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3834-merge-adjacent-equal-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3498-reverse-degree-of-a-string) |
+| [3834-merge-adjacent-equal-elements](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3834-merge-adjacent-equal-elements) |
 ## Minimax
 |  |
 | ------- |
