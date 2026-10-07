@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0424-longest-repeating-character-replacement) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Tree
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0662-maximum-width-of-binary-tree) |
