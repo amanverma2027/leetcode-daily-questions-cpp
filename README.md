@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0205-isomorphic-strings) |
