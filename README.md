@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2073-time-needed-to-buy-tickets) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
 |  |
@@ -391,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0992-subarrays-with-k-different-integers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
