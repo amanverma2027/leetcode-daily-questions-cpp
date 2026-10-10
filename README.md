@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0091-decode-ways) |
+| [0151-reverse-words-in-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0541-reverse-string-ii) |
