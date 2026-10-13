@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0682-baseball-game) |
 | [0904-fruit-into-baskets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0930-binary-subarrays-with-sum) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
