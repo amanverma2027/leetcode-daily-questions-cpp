@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0682-baseball-game) |
 | [0904-fruit-into-baskets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0930-binary-subarrays-with-sum) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0992-subarrays-with-k-different-integers) |
