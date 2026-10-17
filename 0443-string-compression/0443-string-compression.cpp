@@ -23,6 +23,6 @@ public:
             }
         }
 
-        return j;    
+        return j;   
     }
 };
