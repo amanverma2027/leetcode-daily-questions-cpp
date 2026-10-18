@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0151-reverse-words-in-a-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3498-reverse-degree-of-a-string) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
