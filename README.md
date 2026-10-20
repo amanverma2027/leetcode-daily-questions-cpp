@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3834-merge-adjacent-equal-elements](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3886-sum-of-sortable-integers) |
 ## DP on Trees
 |  |
 | ------- |
