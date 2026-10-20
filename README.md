@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
