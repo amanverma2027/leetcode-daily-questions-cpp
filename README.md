@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0032-longest-valid-parentheses) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0042-trapping-rain-water) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0160-intersection-of-two-linked-lists) |
@@ -502,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
