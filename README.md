@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -537,4 +539,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0334-increasing-triplet-subsequence) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
