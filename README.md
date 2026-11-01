@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0334-increasing-triplet-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0605-can-place-flowers) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0067-add-binary) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
