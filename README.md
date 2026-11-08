@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1254-number-of-closed-islands](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3665-twisted-mirror-path-count) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1267-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
