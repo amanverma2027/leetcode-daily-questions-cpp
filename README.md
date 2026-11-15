@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0931-minimum-falling-path-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1922-count-good-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2409-count-days-spent-together) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Lifting
