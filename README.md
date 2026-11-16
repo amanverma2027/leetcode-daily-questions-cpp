@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3110-score-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3110-score-of-a-string) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2073-time-needed-to-buy-tickets](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3498-reverse-degree-of-a-string) |
 | [3834-merge-adjacent-equal-elements](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3834-merge-adjacent-equal-elements) |
 ## Minimax
