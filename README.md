@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1254-number-of-closed-islands](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1267-count-servers-that-communicate) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2747-count-zero-request-servers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2747-count-zero-request-servers) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0543-diameter-of-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1267-count-servers-that-communicate) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
