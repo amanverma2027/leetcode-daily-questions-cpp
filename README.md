@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3110-score-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3863-minimum-operations-to-sort-a-string) |
