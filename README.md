@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1922-count-good-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1922-count-good-numbers) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amanverma2027/leetcode-daily-questions-cpp/tree/master/3364-minimum-positive-sum-subarray) |
